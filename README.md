@@ -73,3 +73,7 @@ This repository includes a **basic demo project** to show how an Android device 
 
 
 
+<img width="1920" height="933" alt="14" src="https://github.com/user-attachments/assets/26746abc-73f4-4f43-a0fe-1d9f7ca6c1b9" />
+<img width="1920" height="933" alt="13" src="https://github.com/user-attachments/assets/d9e9a3b7-bd3b-475a-af08-0d6b13d801b0" />
+<img width="1920" height="1250" alt="2" src="https://github.com/user-attachments/assets/91bff815-95ad-4e4d-ba50-7e84b7cf74cf" />
+<img width="1920" height="933" alt="1" src="https://github.com/user-attachments/assets/4a3f03c7-c9bd-4b6e-ab63-f867d67180e8" />
