@@ -64,12 +64,7 @@ This repository includes a **basic demo project** to show how an Android device 
 <img width="300" height="590" alt="590-300" src="https://github.com/user-attachments/assets/0159d291-7cd4-4ec4-9cb9-a024ea48d95a" />
 ## 🔗 More Screenshots
 
-<img width="300" height="590" alt="a6" src="https://github.com/user-attachments/assets/e2f36535-2f28-4ed0-a4b5-a781b1f72652" />
-<img width="300" height="590" alt="a5" src="https://github.com/user-attachments/assets/e8fad3a6-45fd-43b4-be3a-cb9f7d784214" />
-<img width="300" height="590" alt="a4" src="https://github.com/user-attachments/assets/87128b12-6aae-42fc-bca9-9eda6d860338" />
-<img width="300" height="590" alt="a3" src="https://github.com/user-attachments/assets/4abbc251-69de-4de2-938a-e286b1395262" />
-<img width="300" height="590" alt="a2" src="https://github.com/user-attachments/assets/16804c19-fe1f-491b-abb7-278fd15021cf" />
-<img width="300" height="590" alt="a1" src="https://github.com/user-attachments/assets/b5465bf0-8e4d-4f08-a89d-e82b831d8c5a" />
+<img width="400" height="5893" alt="allphone" src="https://github.com/user-attachments/assets/7839df4e-3f68-41f2-b29f-e070d33f1882" />
 
 
 
@@ -77,3 +72,13 @@ This repository includes a **basic demo project** to show how an Android device 
 <img width="1920" height="933" alt="13" src="https://github.com/user-attachments/assets/d9e9a3b7-bd3b-475a-af08-0d6b13d801b0" />
 <img width="1920" height="1250" alt="2" src="https://github.com/user-attachments/assets/91bff815-95ad-4e4d-ba50-7e84b7cf74cf" />
 <img width="1920" height="933" alt="1" src="https://github.com/user-attachments/assets/4a3f03c7-c9bd-4b6e-ab63-f867d67180e8" />
+<img width="1920" height="1552" alt="12" src="https://github.com/user-attachments/assets/96062967-785c-4cd8-9a47-327a59a4a13c" />
+<img width="1920" height="1262" alt="11" src="https://github.com/user-attachments/assets/4f1bdc8b-3144-4568-a78c-f71a873316c1" />
+<img width="1920" height="933" alt="10" src="https://github.com/user-attachments/assets/bedc7e28-6b69-4033-8f4d-9fd429bf695b" />
+<img width="1920" height="1658" alt="9" src="https://github.com/user-attachments/assets/263531f7-c314-4e38-93ac-400e4bdd89d0" />
+<img width="1920" height="933" alt="8" src="https://github.com/user-attachments/assets/3b040788-c7b9-4845-9237-92dc9bfdff86" />
+<img width="1920" height="1396" alt="7" src="https://github.com/user-attachments/assets/233fcce7-2735-4a73-8d82-2128adba5166" />
+<img width="1920" height="3012" alt="6" src="https://github.com/user-attachments/assets/9ce24386-cfe2-482c-b3cc-ed7f5f33f2e3" />
+<img width="1920" height="933" alt="5" src="https://github.com/user-attachments/assets/44fa88c6-08b5-4380-8e55-1fc8e31d3f3d" />
+<img width="1920" height="933" alt="4" src="https://github.com/user-attachments/assets/a9c4aa0e-f5da-4f07-97f4-32b4d71f3935" />
+<img width="1920" height="933" alt="3" src="https://github.com/user-attachments/assets/75aaf017-63f2-4302-8217-7d209fd3341e" />
