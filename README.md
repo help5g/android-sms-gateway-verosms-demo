@@ -61,13 +61,13 @@ This repository includes a **basic demo project** to show how an Android device 
 - [Download Demo APK](https://verosms.help5g.com.bd/public/userapp/lights_demo.apk)
 - [Buy Full Source Code on CodeCanyon](https://codecanyon.net/item/verosms-android-sms-gateway-source-code-laravel-admin-panel/58958174)
 - 
-<img width="590" height="300" alt="590-300" src="https://github.com/user-attachments/assets/0159d291-7cd4-4ec4-9cb9-a024ea48d95a" />
-<img width="1080" height="2400" alt="a6" src="https://github.com/user-attachments/assets/e2f36535-2f28-4ed0-a4b5-a781b1f72652" />
-<img width="1080" height="2400" alt="a5" src="https://github.com/user-attachments/assets/e8fad3a6-45fd-43b4-be3a-cb9f7d784214" />
-<img width="1080" height="2400" alt="a4" src="https://github.com/user-attachments/assets/87128b12-6aae-42fc-bca9-9eda6d860338" />
-<img width="1080" height="2400" alt="a3" src="https://github.com/user-attachments/assets/4abbc251-69de-4de2-938a-e286b1395262" />
-<img width="1080" height="2400" alt="a2" src="https://github.com/user-attachments/assets/16804c19-fe1f-491b-abb7-278fd15021cf" />
-<img width="1080" height="2400" alt="a1" src="https://github.com/user-attachments/assets/b5465bf0-8e4d-4f08-a89d-e82b831d8c5a" />
-<img width="1920" height="17575" alt="all_page_screenshot" src="https://github.com/user-attachments/assets/3b69aa27-eeaf-4010-a53b-a320b996d15d" />
+<img width="300" height="590" alt="590-300" src="https://github.com/user-attachments/assets/0159d291-7cd4-4ec4-9cb9-a024ea48d95a" />
+<img width="300" height="590" alt="a6" src="https://github.com/user-attachments/assets/e2f36535-2f28-4ed0-a4b5-a781b1f72652" />
+<img width="300" height="590" alt="a5" src="https://github.com/user-attachments/assets/e8fad3a6-45fd-43b4-be3a-cb9f7d784214" />
+<img width="300" height="590" alt="a4" src="https://github.com/user-attachments/assets/87128b12-6aae-42fc-bca9-9eda6d860338" />
+<img width="300" height="590" alt="a3" src="https://github.com/user-attachments/assets/4abbc251-69de-4de2-938a-e286b1395262" />
+<img width="300" height="590" alt="a2" src="https://github.com/user-attachments/assets/16804c19-fe1f-491b-abb7-278fd15021cf" />
+<img width="300" height="590" alt="a1" src="https://github.com/user-attachments/assets/b5465bf0-8e4d-4f08-a89d-e82b831d8c5a" />
+
 
 
