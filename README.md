@@ -57,7 +57,7 @@ This repository includes a **basic demo project** to show how an Android device 
 ---
 
 ## 🔗 Useful Links
-- [Live Demo - Admin Panel](https://verosms.help5g.com.bd/admin
+- [Live Demo - Admin Panel](https://verosms.help5g.com.bd/admin)
 - [Download Demo APK](https://verosms.help5g.com.bd/public/userapp/lights_demo.apk)
 - [Buy Full Source Code on CodeCanyon](https://codecanyon.net/item/verosms-android-sms-gateway-source-code-laravel-admin-panel/58958174)
 - 
